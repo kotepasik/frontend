@@ -1,3 +1,15 @@
-h1 {
-    color: brown;
+html {
+    background-color: rgb(245, 221, 192);
+    color: rgb(89, 22, 22);
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+p {
+    font-size: larger;
+}
+
+img {
+    size: 32px;
 }
